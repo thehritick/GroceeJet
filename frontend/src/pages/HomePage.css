@@ -1,0 +1,6 @@
+.homepage header {
+  background-image: url('https://source.unsplash.com/1600x600/?grocery,shopping');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}

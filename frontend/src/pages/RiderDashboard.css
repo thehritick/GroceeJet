@@ -1,0 +1,16 @@
+.rider-dashboard h2 {
+  font-weight: bold;
+  text-align: center;
+}
+
+.rider-dashboard .card-title {
+  font-size: 1.2rem;
+}
+
+.rider-dashboard .card-text.display-6 {
+  font-size: 2rem;
+}
+
+.rider-dashboard .card {
+  border-radius: 10px;
+}

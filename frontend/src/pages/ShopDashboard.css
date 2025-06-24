@@ -1,0 +1,12 @@
+.dashboard-header {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.card-header {
+  background-color: #f8f9fa;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border-bottom: 1px solid #dee2e6;
+}
